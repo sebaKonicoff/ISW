@@ -11,7 +11,7 @@ ISW
   - Material Práctico
       - Prácticos Entregados
             - Evaluables
-                - TP1_ISW_Grupo_7_Dinamica de Manifiesto Ágil y Lean.pdf
+               - TP1_ISW_Grupo_7_Dinamica de Manifiesto Ágil y Lean.pdf
             - No evaluables
       - Guías
             - ISW_Guia Enunciados TP evaluables 2020 2doCuat.pdf
