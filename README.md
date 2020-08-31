@@ -6,8 +6,8 @@ Repositorio con finalidad de usarala para la materia ISW
 ISW/
 
 1. Reglamentación
-        - Bibliografía
-                - B-Kanban y Scrum Obteniendo lo mejor de ambos-2020.pdf
+	- Bibliografía
+		- B-Kanban y Scrum Obteniendo lo mejor de ambos-2020.pdf
                 - Little Book of Configuration Management-2020.pdf
                 - B-Techniques for estimating-2020.pdf
         - MOD-ACAD-ISW-2020.pdf
