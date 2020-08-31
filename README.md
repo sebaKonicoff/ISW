@@ -11,7 +11,7 @@ ISW/
                 - Little Book of Configuration Management-2020.pdf
                 - B-Techniques for estimating-2020.pdf
         - MOD-ACAD-ISW-2020.pdf
-  - Material Teórico
+2. Material Teórico
       - Filminas
                 - F-01- Ingenieria de Software 2C.pdf
 		- F-02-Intro Proyectos.pdf
@@ -25,7 +25,7 @@ ISW/
                 - TC-01-Póster Científico.txt
       - EN-TC-2020-2C.pdf
       - LT-4K2-2020-2C.TXT
-  - Material Práctico
+3. Material Práctico
       - Prácticos Entregados
             - Evaluables
                 - TPE-01-Dinámica de Manifiesto Ágil y Lean.pdf
@@ -37,7 +37,7 @@ ISW/
             - G-Enunciados TP evaluables-2020-2C.pdf
             - G-Trabajos Practicos Resueltos-2020-2C.pdf
       - LP-4K2-2020-2C.txt
-  - Resúmenes
+4. Resúmenes
       - R-01-2019.docx
       - R-02-2019.docx
 
