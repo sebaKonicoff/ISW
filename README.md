@@ -5,11 +5,9 @@ Repositorio con finalidad de usarala para la materia ISW
 
 ISW/
 
-|___ Reglamentación
-
-        |___Bibliografía
-        
-            |___UTN FRC Modalidad Ing SW 2020 2doC.pdf
+|---Reglamentación
+        |---Bibliografía        
+            |---UTN FRC Modalidad Ing SW 2020 2doC.pdf
   - Material Teórico
       - Filminas
       - Resolución TP's Conceptuales
