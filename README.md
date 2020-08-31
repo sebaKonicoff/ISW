@@ -2,6 +2,7 @@
 
 ## Repositorio
 Repositorio con finalidad de usarala para la materia ISW
+
 ISW
   - Reglamentación
       - Bibliografía
@@ -21,5 +22,7 @@ ISW
   - Material Propio
       - Resúmenes
       - Libros de lectura adicional
+
+## Listado de Items de Configuración
 
 
