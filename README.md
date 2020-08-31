@@ -5,26 +5,41 @@ Repositorio con finalidad de usarala para la materia ISW
 
 ISW/
 
-|___ Reglamentación
-
-        |___Bibliografía
-        
-            |___UTN FRC Modalidad Ing SW 2020 2doC.pdf
+1. Reglamentación
+        - Bibliografía
+                - B-Kanban y Scrum Obteniendo lo mejor de ambos-2020.pdf
+                - Little Book of Configuration Management-2020.pdf
+                - B-Techniques for estimating-2020.pdf
+        - MOD-ACAD-ISW-2020.pdf
   - Material Teórico
       - Filminas
+                - F-01- Ingenieria de Software 2C.pdf
+		- F-02-Intro Proyectos.pdf
+		- F-03-Intro Cursada.pdf
+		- F-04-Intro agile.pdf
+		- F-05-Rqs Agiles USER STORIES.pdf
+                - F-06-Estimaciones.pdf
+                - F-07-Gestión de Productos de Software.pdf
+                - F-08-SCM.pdf
       - Resolución TP's Conceptuales
-      - Enunciados TP's Conceptuales
+                - TC-01-Póster Científico.txt
+      - EN-TC-2020-2C.pdf
+      - LT-4K2-2020-2C.TXT
   - Material Práctico
       - Prácticos Entregados
             - Evaluables
-               *** TP1_ISW_Grupo_7_Dinamica de Manifiesto Ágil y Lean.pdf
+                - TPE-01-Dinámica de Manifiesto Ágil y Lean.pdf
             - No evaluables
+                - TPNE-02-Requerimientos Ágiles
+                - TPNE-03-Requerimientos Ágiles.docx
+                - TPNE-03-Requerimientos Ágiles.pdf
       - Guías
-            - ISW_Guia Enunciados TP evaluables 2020 2doCuat.pdf
-            - ISW_Guia de Trabajos Practicos Resueltos 2020 2doC.pdf
-  - Material Propio
-      - Resúmenes
-      - Libros de lectura adicional
+            - G-Enunciados TP evaluables-2020-2C.pdf
+            - G-Trabajos Practicos Resueltos-2020-2C.pdf
+      - LP-4K2-2020-2C.txt
+  - Resúmenes
+      - R-01-2019.docx
+      - R-02-2019.docx
 
 ## Listado de Items de Configuración
 
