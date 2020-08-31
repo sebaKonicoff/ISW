@@ -30,4 +30,5 @@ ISW/
 
 | Nombre | Regla de nombrado | Ubicación física | 
 | --- | --- | --- |
-| contenido de celda 1.1 | contenido de celda 1.2 | contenido de celda 1.3 | 
+| Modalidad Académica | MOD-ACAD-ISW-<YYYY>.pdf | /Reglamentación | 
+| Modalidad Académica | MOD-ACAD-ISW-<YYYY>.pdf | /Reglamentación | 
