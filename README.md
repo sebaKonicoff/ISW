@@ -36,5 +36,5 @@ ISW/
 | Filminas | F-<nro>-<tema>.pdf | /Material Teórico/Filminas |
 | TP Evaluables | TPE-<nroTPE>-<tema>.<extensión> | /Material Práctico/Prácticos Entregados/Evaluables |
 | TP No Evaluables | TPNE-<nroTPNE>-<tema>.<extensión> | /Material Práctico/Prácticos Entregados/No Evaluables |
-| Guías | G - <nombreG> - <YYYY> - <nroC>C.pdf | /Material Práctico/Guías |
+| Guías | G-\<nombreG\>-<YYYY>-<nroC>C.pdf | /Material Práctico/Guías |
 
