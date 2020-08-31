@@ -5,8 +5,7 @@ Repositorio con finalidad de usarala para la materia ISW
 
 ISW/
 
-|____ Reglamentación
-
+|--- Reglamentación
       - Bibliografía
       - UTN FRC Modalidad Ing SW 2020 2doC.pdf
   - Material Teórico
@@ -26,4 +25,9 @@ ISW/
       - Libros de lectura adicional
 
 ## Listado de Items de Configuración
-
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ol>
