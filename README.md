@@ -31,11 +31,10 @@ ISW/
 | Nombre | Regla de nombrado | Ubicación física | 
 | --- | --- | --- |
 | Modalidad Académica | MOD-ACAD-ISW-<YYYY>.pdf | /Reglamentación | 
-| Modalidad Académica | MOD-ACAD-ISW-<YYYY>.pdf | /Reglamentación |   
 | Bibliografía | B-<nombreB>-<YYYY>.pdf | /Reglamentación/Bibliografía |
 | Resolución Trabajos Conceptuales | TC-<nro>-<nombreTC>.<extensión> | /Material Teórico/Resolución TP’s Conceptuales |
 | Filminas | F-<nro>-<tema>.pdf | /Material Teórico/Filminas |
 | TP Evaluables | TPE-<nroTPE>-<tema>.<extensión> | /Material Práctico/Prácticos Entregados/Evaluables |
 | TP No Evaluables | TPNE-<nroTPNE>-<tema>.<extensión> | /Material Práctico/Prácticos Entregados/No Evaluables |
-| Guías | G-<nombreG>-<YYYY>-<nroC>C.pdf | /Material Práctico/Guías |
+| Guías | G - <nombreG> - <YYYY> - <nroC>C.pdf | /Material Práctico/Guías |
 
