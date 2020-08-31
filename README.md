@@ -49,17 +49,17 @@ ISW/
 | Sigla | Significado |
 | --- | --- |
 | Modalidad Académica | MOD-ACAD-ISW-\<YYYY\>.pdf |
-| <nro> | Número cardinal empezando en 01. | 
-| <nroTPE> | Número cardinal que corresponde al trabajo práctico evaluable. |
-| <nroTPNE> | Número cardinal que corresponde al trabajo práctico no evaluable. |
-| <nroC> | Número cardinal que corresponde a un cuatrimestre. |
-| <tema> | Breve descripción del tema central del que trata el ítem de configuración. |
-| <YYYY> | Fecha del ítem de configuración en formato numérico (Año). |
-| <nombreB> | Nombre que identifica a la Bibliografía. |
-| <nombreTC> | Nombre que identifica al Trabajo Conceptual. |
-| <nombreG> | Nombre que identifica a la Guía de Trabajos Prácticos. | 
-| <nombreLB> | Nombre que identifica a la Línea Base. |
-| <YYYYMMDD> | Fecha del ítem de configuración en formato numérico (AñoMesDía) | 
-| <extensión> | Nombre de la extensión de un archivo identificado como ítem de configuración. |
-| <idLíneaBase> | Sigla que indica con qué línea base se corresponde cada documento de línea base. |
-| <ambito> | Ámbito del documento de línea base que indica de qué tipo de documento se trata.|
+| \<nro\> | Número cardinal empezando en 01. | 
+| \<nroTPE\> | Número cardinal que corresponde al trabajo práctico evaluable. |
+| \<nroTPNE\> | Número cardinal que corresponde al trabajo práctico no evaluable. |
+| \<nroC\> | Número cardinal que corresponde a un cuatrimestre. |
+| \<tema\> | Breve descripción del tema central del que trata el ítem de configuración. |
+| \<YYYY\> | Fecha del ítem de configuración en formato numérico (Año). |
+| \<nombreB\> | Nombre que identifica a la Bibliografía. |
+| \<nombreTC\> | Nombre que identifica al Trabajo Conceptual. |
+| \<nombreG\> | Nombre que identifica a la Guía de Trabajos Prácticos. | 
+| \<nombreLB\> | Nombre que identifica a la Línea Base. |
+| \<YYYYMMDD\> | Fecha del ítem de configuración en formato numérico (AñoMesDía) | 
+| \<extensión\> | Nombre de la extensión de un archivo identificado como ítem de configuración. |
+| \<idLíneaBase\> | Sigla que indica con qué línea base se corresponde cada documento de línea base. |
+| \<ambito\> | Ámbito del documento de línea base que indica de qué tipo de documento se trata.|
