@@ -37,4 +37,12 @@ ISW/
 | TP Evaluables | TPE-\<nroTPE\>-\<tema\>.<extensión> | /Material Práctico/Prácticos Entregados/Evaluables |
 | TP No Evaluables | TPNE-\<nroTPNE\>-\<tema\>.<extensión> | /Material Práctico/Prácticos Entregados/No Evaluables |
 | Guías | G-\<nombreG\>-\<YYYY\>-\<nroC\>C.pdf | /Material Práctico/Guías |
+| Resúmenes | R-\<nro\>-\<YYYY\>.<extensión> | /Material Propio/Resúmenes |
+| Enunciados TP’s Conceptuales | EN-TC-\<YYYY\>-\<nroC\>C.pdf | /Material Teórico|
+| Links de Clases Grabadas Prácticas | LP-4K\<nro\>-\<YYYY\>-\<nroC\>C.txt | /Material Práctico |
+| Links de Clases Grabadas Teóricas | LT-4K\<nro\>-\<YYYY\>-\<nroC\>C.txt | /Material Teórico |
+| Líneas Base | LB-\<nro\>-\<nombreLB\>.<extensión> | /Líneas Base |
+| Documentos de Línea Base | DOC-\<idLíneaBase\>-\<nro\>-\<ambito\>.<extensión> | /Líneas Base/LB-\<nro\>-\<nombreLB\> | 
+| Plan de SCM | README.md | / |
+
 
