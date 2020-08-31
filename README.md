@@ -48,7 +48,6 @@ ISW/
 ## Glosario
 | Sigla | Significado |
 | --- | --- |
-| Modalidad Académica | MOD-ACAD-ISW-\<YYYY\>.pdf |
 | \<nro\> | Número cardinal empezando en 01. | 
 | \<nroTPE\> | Número cardinal que corresponde al trabajo práctico evaluable. |
 | \<nroTPNE\> | Número cardinal que corresponde al trabajo práctico no evaluable. |
