@@ -1,4 +1,6 @@
-# ISW
+# Plan de SCM
+
+## Repositorio
 Repositorio con finalidad de usarala para la materia ISW
 ISW
   - Reglamentación
@@ -19,3 +21,5 @@ ISW
   - Material Propio
       - Resúmenes
       - Libros de lectura adicional
+
+
