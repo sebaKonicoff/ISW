@@ -1,7 +1,7 @@
 # Plan de SCM
 
-## Repositorio
-Repositorio con finalidad de usarala para la materia ISW
+## Estructura del Repositorio
+Repositorio con finalidad de usarlo para la materia ISW, grupo 7
 
 ISW/
 
@@ -13,7 +13,7 @@ ISW/
 		- B-Techniques for estimating-2020.pdf
 2. Material Teórico
       - Filminas
-                - F-01- Ingenieria de Software 2C.pdf
+      	- F-01- Ingenieria de Software 2C.pdf
 		- F-02-Intro Proyectos.pdf
 		- F-03-Intro Cursada.pdf
 		- F-04-Intro agile.pdf
@@ -21,8 +21,8 @@ ISW/
 		- F-06-Estimaciones.pdf                
 		- F-07-Gestión de Productos de Software.pdf                
 		- F-08-SCM.pdf
-      - Resolución TP's Conceptuales
-                - TC-01-Póster Científico.txt
+      - Resolución TP's Conceptuales                
+      	- TC-01-Póster Científico.txt
       - EN-TC-2020-2C.pdf
       - LT-4K2-2020-2C.TXT
 3. Material Práctico
