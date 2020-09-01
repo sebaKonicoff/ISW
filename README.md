@@ -52,7 +52,7 @@ ISW/
 | TP Evaluables | TPE-\<nroTPE\>-\<tema\>.<extensión> | /Material Práctico/Prácticos Entregados/Evaluables |
 | TP No Evaluables | TPNE-\<nroTPNE\>-\<tema\>.<extensión> | /Material Práctico/Prácticos Entregados/No Evaluables |
 | Guías | G-\<nombreG\>-\<YYYY\>-\<nroC\>C.pdf | /Material Práctico/Guías |
-| Resúmenes | R-\<nro\>-\<YYYY\>.<extensión> | /Material Propio/Resúmenes |
+| Resúmenes | R-\<nro\>-\<YYYY\>.<extensión> | /Resúmenes |
 | Enunciados TP’s Conceptuales | EN-TC-\<YYYY\>-\<nroC\>C.pdf | /Material Teórico|
 | Links de Clases Grabadas Prácticas | LP-4K\<nro\>-\<YYYY\>-\<nroC\>C.txt | /Material Práctico |
 | Links de Clases Grabadas Teóricas | LT-4K\<nro\>-\<YYYY\>-\<nroC\>C.txt | /Material Teórico |
