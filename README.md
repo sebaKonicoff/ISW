@@ -29,6 +29,8 @@ ISW/
 	- Prácticos Entregados
 		- Evaluables
 			- TPE-01-Dinámica de Manifiesto Ágil y Lean.pdf
+			- TPE-04-SCM.docx
+			- TPE-04-SCM.pdf
 		- No evaluables
 			- TPNE-02-Requerimientos Ágiles.docx 
 			- TPNE-03-Requerimientos Ágiles.docx
