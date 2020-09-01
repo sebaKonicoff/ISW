@@ -30,7 +30,7 @@ ISW/
 		- Evaluables
 			- TPE-01-Dinámica de Manifiesto Ágil y Lean.pdf
 		- No evaluables
-			- TPNE-02-Requerimientos Ágiles 
+			- TPNE-02-Requerimientos Ágiles.docx 
 			- TPNE-03-Requerimientos Ágiles.docx
 			- TPNE-03-Requerimientos Ágiles.pdf
 	- Guías
