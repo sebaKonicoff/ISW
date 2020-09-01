@@ -1,7 +1,7 @@
 # Plan de SCM
 
 ## Estructura del Repositorio
-Repositorio con finalidad de usarlo para la materia ISW, grupo 7
+Repositorio con finalidad de usarlo para la materia ISW, Grupo N°7
 
 ISW/
 
@@ -24,7 +24,7 @@ ISW/
       - Resolución TP's Conceptuales                
       	- TC-01-Póster Científico.txt
       - EN-TC-2020-2C.pdf
-      - LT-4K2-2020-2C.TXT
+      - LT-4K2-2020-2C.txt
 3. Material Práctico
 	- Prácticos Entregados
 		- Evaluables
