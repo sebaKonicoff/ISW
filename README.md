@@ -81,4 +81,4 @@ ISW/
 | \<ambito\> | Ámbito del documento de línea base que indica de qué tipo de documento se trata.|
 
 ## Criterio para la creación de líneas base
-Los momentos en los que se van a definir las líneas base serán dos. La primera línea base será creada el luego de rendir el primer parcial y la otra luego del segundo parcial, en ambos casos, el primer día lunes siguiente.
+Los momentos en los que se van a definir las líneas base serán dos. La primera línea base será creada luego de rendir el primer parcial y la otra luego del segundo parcial, en ambos casos, el primer día lunes siguiente.
