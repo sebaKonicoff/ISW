@@ -6,11 +6,11 @@ Repositorio con finalidad de usarala para la materia ISW
 ISW/
 
 1. Reglamentación
+	- MOD-ACAD-ISW-2020.pdf
 	- Bibliografía
 		- B-Kanban y Scrum Obteniendo lo mejor de ambos-2020.pdf
 		- Little Book of Configuration Management-2020.pdf
 		- B-Techniques for estimating-2020.pdf
-       	- MOD-ACAD-ISW-2020.pdf
 2. Material Teórico
       - Filminas
                 - F-01- Ingenieria de Software 2C.pdf
@@ -26,17 +26,17 @@ ISW/
       - EN-TC-2020-2C.pdf
       - LT-4K2-2020-2C.TXT
 3. Material Práctico
-      - Prácticos Entregados
-            - Evaluables
-                - TPE-01-Dinámica de Manifiesto Ágil y Lean.pdf
-            - No evaluables
-                - TPNE-02-Requerimientos Ágiles
-                - TPNE-03-Requerimientos Ágiles.docx
-                - TPNE-03-Requerimientos Ágiles.pdf
-      - Guías
-            - G-Enunciados TP evaluables-2020-2C.pdf
-            - G-Trabajos Practicos Resueltos-2020-2C.pdf
-      - LP-4K2-2020-2C.txt
+	- Prácticos Entregados
+		- Evaluables
+			- TPE-01-Dinámica de Manifiesto Ágil y Lean.pdf
+		- No evaluables
+			- TPNE-02-Requerimientos Ágiles 
+			- TPNE-03-Requerimientos Ágiles.docx
+			- TPNE-03-Requerimientos Ágiles.pdf
+	- Guías
+		- G-Enunciados TP evaluables-2020-2C.pdf
+		- G-Trabajos Practicos Resueltos-2020-2C.pdf
+	- LP-4K2-2020-2C.txt
 4. Resúmenes
       - R-01-2019.docx
       - R-02-2019.docx
