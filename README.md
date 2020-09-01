@@ -17,10 +17,10 @@ ISW/
 		- F-02-Intro Proyectos.pdf
 		- F-03-Intro Cursada.pdf
 		- F-04-Intro agile.pdf
-		- F-05-Rqs Agiles USER STORIES.pdf
-                - F-06-Estimaciones.pdf
-                - F-07-Gestión de Productos de Software.pdf
-                - F-08-SCM.pdf
+		- F-05-Rqs Agiles USER STORIES.pdf                
+		- F-06-Estimaciones.pdf                
+		- F-07-Gestión de Productos de Software.pdf                
+		- F-08-SCM.pdf
       - Resolución TP's Conceptuales
                 - TC-01-Póster Científico.txt
       - EN-TC-2020-2C.pdf
