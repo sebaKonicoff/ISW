@@ -32,6 +32,8 @@ ISW/
 			- TPE-01-Dinámica de Manifiesto Ágil y Lean.pdf
 			- TPE-04-SCM.docx
 			- TPE-04-SCM.pdf
+			- TPE-06-Implementación de User Stories.docx
+			- TPE-06-Implementación de User Stories.pdf
 			- TPE-07-SCRUM Roles y Ciclo de Vida.pdf
 		- No evaluables
 			- TPNE-02-Requerimientos Ágiles.docx 
