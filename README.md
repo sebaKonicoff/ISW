@@ -23,7 +23,7 @@ ISW/
 		- F-08-SCM.pdf
 		- F-09-Framework Nexus.pdf
       - Resolución TP's Conceptuales                
-      	- TC-01-Póster Científico.txt
+      	- TC-01-Póster Científico.pdf
       - EN-TC-2020-2C.pdf
       - LT-4K2-2020-2C.txt
 3. Material Práctico
