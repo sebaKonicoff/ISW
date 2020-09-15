@@ -64,9 +64,9 @@ ISW/
 | Enunciados TP’s Conceptuales | EN-TC-\<YYYY\>-\<nroC\>C.pdf | /Material Teórico|
 | Links de Clases Grabadas Prácticas | LP-4K\<nro\>-\<YYYY\>-\<nroC\>C.txt | /Material Práctico |
 | Links de Clases Grabadas Teóricas | LT-4K\<nro\>-\<YYYY\>-\<nroC\>C.txt | /Material Teórico |
-| Líneas Base | LB-\<nro\>-\<nombreLB\>.<extensión> | /Líneas Base |
 | Documentos de Línea Base | DOC-\<idLíneaBase\>-\<nro\>-\<ambito\>.<extensión> | /Líneas Base/LB-\<nro\>-\<nombreLB\> | 
 | Plan de SCM | README.md | / |
+| Líneas Base | LB-\<nro\>-\<nombreLB\> | /Líneas Base |
 
 ## Glosario
 | Sigla | Significado |
