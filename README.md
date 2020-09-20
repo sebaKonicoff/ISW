@@ -23,6 +23,9 @@ ISW/
 		- F-08-SCM.pdf
 		- F-09-SCRUM.pdf
 		- F-10-Framework Nexus.pdf
+		- F-11-Testing de Software Parte 1.pdf
+		- F-12-Testing de Software Parte 2.pdf
+		- F-13-Agile Testing.pdf
       - Resolución TP's Conceptuales                
       	- TC-01-Póster Científico.pdf
       - EN-TC-2020-2C.pdf
@@ -37,6 +40,7 @@ ISW/
 			- TPE-06-Implementación de User Stories.pdf
 			- TPE-06-Implementación de User Stories.zip
 			- TPE-07-SCRUM Roles y Ciclo de Vida.pdf
+			- TPE-08-Release and Sprint Planning
 		- No evaluables
 			- TPNE-02-Requerimientos Ágiles.docx 
 			- TPNE-03-Requerimientos Ágiles.docx
