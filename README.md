@@ -9,7 +9,7 @@ ISW/
 	- MOD-ACAD-ISW-2020.pdf
 	- Bibliografía
 		- B-Kanban y Scrum Obteniendo lo mejor de ambos-2020.pdf
-		- Little Book of Configuration Management-2020.pdf
+		- B-Little Book of Configuration Management-2020.pdf
 		- B-Techniques for estimating-2020.pdf
 2. Material Teórico
       - Filminas
