@@ -51,3 +51,11 @@ Clase del Viernes 18 de Septiembre – Testing de Software
 	4K2_20200918_TestingSoftware_Parte2 -  https://youtu.be/4SFstHKhEqM
 
 	4K2_20200918_TestingSoftware_Parte3 - https://youtu.be/9H_jm2y233w
+
+Clase del Viernes 25 de Septiembre – Testing de Software – Enfoque testing ágil
+
+ 	4K2_20200925_TestingSoftware_Parte1 - https://youtu.be/SXquwfq5_bA
+
+	4K2_20200925_TestingSoftware_Parte2 - https://youtu.be/F_2aavz06tk
+
+	4K2_20200925_TestingSoftware_Parte3 - https://youtu.be/MAlup1IW_PU
