@@ -40,11 +40,13 @@ ISW/
 			- TPE-06-Implementación de User Stories.pdf
 			- TPE-06-Implementación de User Stories.zip
 			- TPE-07-SCRUM Roles y Ciclo de Vida.pdf
-			- TPE-08-Release and Sprint Planning
+			- TPE-08-Release and Sprint Planning.pdf
+			- TPE-12-Ejecución de Casos de Prueba.xlsx
 		- No evaluables
 			- TPNE-02-Requerimientos Ágiles.docx 
 			- TPNE-03-Requerimientos Ágiles.docx
 			- TPNE-03-Requerimientos Ágiles.pdf
+			- TPNE-11-Métodos de Caja Negra.pdf
 	- Guías
 		- G-Enunciados TP evaluables-2020-2C.pdf
 		- G-Trabajos Practicos Resueltos-2020-2C.pdf
