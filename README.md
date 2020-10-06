@@ -26,6 +26,10 @@ ISW/
 		- F-11-Testing de Software Parte 1.pdf
 		- F-12-Testing de Software Parte 2.pdf
 		- F-13-Agile Testing.pdf
+		- F-14-Aseguramiento de Calidad.pdf
+		- F-15-Auditorias de Software.pdf
+		- F-16-Revisiones Tecnicas.pdf
+		- F-17- Lean & Kanban.pdf
       - Resolución TP's Conceptuales                
       	- TC-01-Póster Científico.pdf
       - EN-TC-2020-2C.pdf
