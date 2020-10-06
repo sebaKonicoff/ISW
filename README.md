@@ -26,6 +26,10 @@ ISW/
 		- F-11-Testing de Software Parte 1.pdf
 		- F-12-Testing de Software Parte 2.pdf
 		- F-13-Agile Testing.pdf
+		- F-14-Aseguramiento de Calidad.pdf
+		- F-15-Auditorias de Software.pdf
+		- F-16-Revisiones Tecnicas.pdf
+		- F-17- Lean & Kanban.pdf
       - Resolución TP's Conceptuales                
       	- TC-01-Póster Científico.pdf
       - EN-TC-2020-2C.pdf
@@ -40,11 +44,13 @@ ISW/
 			- TPE-06-Implementación de User Stories.pdf
 			- TPE-06-Implementación de User Stories.zip
 			- TPE-07-SCRUM Roles y Ciclo de Vida.pdf
-			- TPE-08-Release and Sprint Planning
+			- TPE-08-Release and Sprint Planning.pdf
+			- TPE-12-Ejecución de Casos de Prueba.xlsx
 		- No evaluables
 			- TPNE-02-Requerimientos Ágiles.docx 
 			- TPNE-03-Requerimientos Ágiles.docx
 			- TPNE-03-Requerimientos Ágiles.pdf
+			- TPNE-11-Métodos de Caja Negra.pdf
 	- Guías
 		- G-Enunciados TP evaluables-2020-2C.pdf
 		- G-Trabajos Practicos Resueltos-2020-2C.pdf
