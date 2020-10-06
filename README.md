@@ -13,7 +13,7 @@ ISW/
 		- B-Techniques for estimating-2020.pdf
 2. Material Teórico
       - Filminas
-      	- F-01- Ingenieria de Software 2C.pdf
+      	- F-01-Ingenieria de Software 2C.pdf
 		- F-02-Intro Proyectos.pdf
 		- F-03-Intro Cursada.pdf
 		- F-04-Intro agile.pdf
@@ -29,7 +29,7 @@ ISW/
 		- F-14-Aseguramiento de Calidad.pdf
 		- F-15-Auditorias de Software.pdf
 		- F-16-Revisiones Tecnicas.pdf
-		- F-17- Lean & Kanban.pdf
+		- F-17-Lean & Kanban.pdf
       - Resolución TP's Conceptuales                
       	- TC-01-Póster Científico.pdf
       - EN-TC-2020-2C.pdf
@@ -50,6 +50,8 @@ ISW/
 			- TPNE-02-Requerimientos Ágiles.docx 
 			- TPNE-03-Requerimientos Ágiles.docx
 			- TPNE-03-Requerimientos Ágiles.pdf
+			- TPNE-09-Métodos de Caja Negra.pdf
+			- TPNE-10-Métodos de caja blanca.xlsx
 			- TPNE-11-Métodos de Caja Negra.pdf
 	- Guías
 		- G-Enunciados TP evaluables-2020-2C.pdf
