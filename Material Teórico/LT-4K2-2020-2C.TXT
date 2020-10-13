@@ -36,13 +36,15 @@ Clase del Viernes 28 de Agosto
 
 	4K2_20200828_Scrum_Parte2 – https://youtu.be/mW0qg6dTbKY
 
+	4K2_20200828_Scrum_Parte3 – https://youtu.be/xl52govplPQ
+
 Clase del Viernes 04 de Septiembre – Framework para escalar Scrum
 
  	4K2_20200904_FrameEscalarScrum_Parte1 – https://youtu.be/lK9a-GOLW1g
 
 	4K2_20200904_FrameEscalarScrum_Parte2 – https://youtu.be/DnQ_barzO48
 
-	4K2_20200828_Scrum_Parte3 – https://youtu.be/xl52govplPQ
+
 
 Clase del Viernes 18 de Septiembre – Testing de Software
 
@@ -63,3 +65,7 @@ Clase del Viernes 25 de Septiembre – Testing de Software – Enfoque testing �
 Clase del Viernes 02 de Octubre – Aseguramiento de Calidad de Proceso y de Producto
 
 4K2_20201002_PPQA - https://youtu.be/2elElmTHY7I
+
+Clase del Viernes 09 de Octubre – Lean & Kanban
+
+4K2_20201009_Lean&Kanban - https://youtu.be/z2A990iemdg
