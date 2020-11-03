@@ -35,55 +35,63 @@ Clase del Martes 25 de Agosto
 
 Clase del Martes 08 de Septiembre – Release Plan y Sprint Planning
 
- 4K2_20200908_SprintPlanning – https://youtu.be/GqAel7bGql0
+	4K2_20200908_SprintPlanning – https://youtu.be/GqAel7bGql0
 
 
 Clase invertida: 15 de Septiembre
 
 Clases grabadas
 
-Parte 1: https://youtu.be/CkRfwRR5KJM
+	Parte 1: https://youtu.be/CkRfwRR5KJM
 
-Parte 2: https://youtu.be/MQPfWdtGYfw
+	Parte 2: https://youtu.be/MQPfWdtGYfw
 
-Parte 3: https://youtu.be/Oggb1RqDIaE
+	Parte 3: https://youtu.be/Oggb1RqDIaE
 
-Parte 1: https://www.youtube.com/watch?v=Zuc1VNO-wB8
+	Parte 1: https://www.youtube.com/watch?v=Zuc1VNO-wB8
 
-Parte 2: https://www.youtube.com/watch?v=p78VFLY5wWE
+	Parte 2: https://www.youtube.com/watch?v=p78VFLY5wWE
 
 Clase online:
 
-https://youtu.be/s0SD3s7Yu6Y
+	https://youtu.be/s0SD3s7Yu6Y
 
-https://youtu.be/aeWUHfXcusI
+	https://youtu.be/aeWUHfXcusI
 
 Clase invertida: 22 de Septiembre
 
 Clases grabadas
 
-Parte 1: https://www.youtube.com/watch?v=6IrH0k-2KQo
+	Parte 1: https://www.youtube.com/watch?v=6IrH0k-2KQo
 
-Parte 2: https://www.youtube.com/watch?v=Q7YP2x3DsSg
+	Parte 2: https://www.youtube.com/watch?v=Q7YP2x3DsSg
 
-Parte 3: https://www.youtube.com/watch?v=wLFSbA537YI
+	Parte 3: https://www.youtube.com/watch?v=wLFSbA537YI
 
 Clase online:
 
-https://youtu.be/FBW0-bNjLgY
+	https://youtu.be/FBW0-bNjLgY
 
-https://youtu.be/XwQAUzFGRkI
+	https://youtu.be/XwQAUzFGRkI
 
 Clase del Martes 6 de Octubre – Testing de Caja Negra
 
-4K2_20201006?_TestingCajaNegra - https://youtu.be/HFD01sY1Ago
+	4K2_20201006?_TestingCajaNegra - https://youtu.be/HFD01sY1Ago
 
 Clase del Martes 13 de Octubre – Testing de Caja Blanca
 
-4K2_20201013_TestingCajaBlanca  - https://youtu.be/CoITYsUt64o
+	4K2_20201013_TestingCajaBlanca  - https://youtu.be/CoITYsUt64o
 
 Clase del 21 de Octubre – Practico 13 Design Thinking
 
 Se sube la clase del curso 4K3 por problemas con la grabación del 4K2.
 
-4K3_20201021_DesignThinking: https://youtu.be/ZLYnX0E4Uf4
+	4K3_20201021_DesignThinking: https://youtu.be/ZLYnX0E4Uf4
+
+Clase del Martes 27 de Octubre – Revisiones Técnicas
+
+	4K2_20201027_RevisionesTecnicas - https://youtu.be/29p0TrrtleQ
+
+Clase del Martes 3 de Noviembre - Retrospectivas
+
+	https://youtu.be/fcp5TFtPLoM
